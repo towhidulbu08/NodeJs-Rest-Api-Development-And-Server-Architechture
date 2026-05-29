@@ -2,6 +2,19 @@
   {
     "id": 1,
     "name": "P-01",
-    "price": 500
+    "price": 500,
+    "description": "Standard entry-level product with essential features."
+  },
+  {
+    "id": 2,
+    "name": "P-02",
+    "price": 750,
+    "description": "Mid-range product offering improved performance and durability."
+  },
+  {
+    "id": 3,
+    "name": "P-03",
+    "price": 1000,
+    "description": "Advanced product with premium build quality and extended warranty."
   }
 ]
