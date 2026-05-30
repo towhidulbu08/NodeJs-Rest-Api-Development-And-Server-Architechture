@@ -6,12 +6,6 @@
     "description": "Advanced product with premium build quality and extended warranty."
   },
   {
-    "id": 1,
-    "name": "Product updated Successfully",
-    "description": "Product description 2",
-    "price": 50000
-  },
-  {
     "id": 2,
     "name": "Product updated Successfully",
     "description": "Product description 2",
@@ -20,6 +14,18 @@
   {
     "id": 1780116096895,
     "name": "Product updated Successfully",
+    "description": "Product description 2",
+    "price": 45
+  },
+  {
+    "id": 10,
+    "name": "Product Optimized",
+    "description": "Product description 2",
+    "price": 45
+  },
+  {
+    "id": 10,
+    "name": "Product Optimized",
     "description": "Product description 2",
     "price": 45
   }
